@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zomatoo</title>
+    <link rel="shortcut icon" href="/food.jpg" type="image/x-icon">
+</head>
+
+<body>
+    <h1>zomatoo</h1>
+    <h2>Qualitity</h2>
+    Factors Affecting Food Quality and Taste:
+    Restaurant Choice: The quality of food is ultimately the responsibility of the restaurant partner, not Zomato
+    itself. This means that the food quality can vary greatly depending on the specific restaurant you choose.
+    Restaurant Practices: Some restaurants may not maintain consistent quality or hygiene standards.
+    Individual Preferences: Taste is subjective, and what one person enjoys, another may not.
+    <h3>taste</h3>
+    <h4>delivery</h4>
+    Factors Affecting Delivery:
+    Delivery Time:
+    Zomato's delivery times can be affected by various factors such as restaurant preparation time, traffic conditions,
+    and the distance between the restaurant and the delivery location.
+    Delivery Partner Performance:
+    While Zomato has a large network of delivery partners, occasional issues with delivery personnel, such as delays or
+    incorrect deliveries, can occur.
+    <p style="text-align: center;">Zomato's food quality, taste, and delivery experiences can vary significantly. While
+        Zomato aims to connect users with diverse restaurants and provide convenient delivery, customer reviews
+        highlight inconsistencies in food quality, taste, and delivery times. Some users report excellent experiences
+        with delicious food and efficient delivery, while others have faced issues like stale food, incorrect orders,
+        and delayed or even canceled deliveries. </p>
+    <img src="/food.jpg" alt="description" height="500" width="500">
+    <h1><a href="https://www.zomato.com/">ORDER NOW</h1>
+    <a href="https://www.zomato.com/"></a>
+</body>
+
+</html>
